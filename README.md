@@ -16,6 +16,8 @@ Saya di tugaskan untuk membuat sebuah **Dictionary** pencatatan resep masak seha
    Cek versi Python di terminal/CMD:
    ```bash
    python --version
+   ```bash
+   python "tugas UAS.py"
 
 
 ---
@@ -66,3 +68,9 @@ Menu Pengelola Resep:
 5. Keluar
 Masukkan pilihan Anda (1-5): 5
 Terima kasih telah menggunakan Pengelola Resep!
+
+## 👤 Penulis
+Nama: Amalia Nania Abyanti
+NIM: 240403010027
+Program Studi: Teknik Informatika
+GitHub: @amaleea-408
